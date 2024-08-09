@@ -1,0 +1,13 @@
+.shared {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+
+.shared.click {
+    background-color: black;
+    color: white;
+}
+
+.shared.counter {
+    background-color: yellow;
+}
